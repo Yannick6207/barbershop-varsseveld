@@ -34,12 +34,12 @@
                 <p>Een frisse coupe. Een verzorgde baard.<br>Een look die helemaal bij je past.</p>
                 <div class="hero-actions">
                     <button class="button booking" type="button">PLAN JE BEZOEK <span class="material-symbols-outlined" aria-hidden="true">arrow_forward</span></button>
-                    <a class="text-link" href="#diensten">ONTDEK DE DIENSTEN <span class="material-symbols-outlined" aria-hidden="true">arrow_forward</span></a>
+                    <a class="text-link" href="#diensten">ONTDEK DE DIENSTEN <span class="material-symbols-outlined" aria-hidden="true">arrow_downward</span></a>
                 </div>
             </div>
             <div class="hero-bottom">
                 <span>HEREN · KINDEREN · BAARDVERZORGING</span>
-                <span>VARSSEVELD, ACHTERHOEK <span class="material-symbols-outlined copper" aria-hidden="true">arrow_forward</span></span>
+                <span>VARSSEVELD, ACHTERHOEK <span class="material-symbols-outlined copper" aria-hidden="true">location_on</span></span>
             </div>
             <div class="vertical">THE ART OF A FRESH LOOK</div>
         </section>
@@ -47,8 +47,7 @@
         <div class="ticker" aria-hidden="true">
             <span>FRESH CUTS</span><i class="material-symbols-outlined">star</i>
             <span>CLEAN SHAVES</span><i class="material-symbols-outlined">star</i>
-            <span>YOUR STYLE</span><i class="material-symbols-outlined">star</i>
-            <span>VARSSEVELD</span>
+            <span>YOUR STYLE</span>
         </div>
 
         <section class="services wrap" id="diensten">
@@ -79,7 +78,6 @@
                     <button class="service-action" type="button" data-service="Kinderen knippen" aria-label="Bekijk kinderen knippen"><span class="material-symbols-outlined" aria-hidden="true">arrow_forward</span></button>
                 </article>
             </div>
-            <p class="note">Het aanbod is gebaseerd op openbare bedrijfsinformatie uit 2023. Actuele behandelingen en tarieven worden voor de definitieve website bevestigd.</p>
         </section>
 
         <section class="story" id="verhaal">

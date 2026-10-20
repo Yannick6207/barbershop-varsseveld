@@ -248,7 +248,7 @@ h2 em {
 .copper {
   color: var(--copper);
   font-size: 21px;
-  padding-left: 20px;
+  padding-left: 6px;
 }
 .vertical {
   position: absolute;
@@ -325,10 +325,14 @@ h3 {
   margin: 0;
 }
 .service-action {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
   border: 1px solid #756a58;
   border-radius: 50%;
   width: 43px;
   height: 43px;
+  padding: 0;
   background: transparent;
   color: var(--copper);
   font-size: 22px;
