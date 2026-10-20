@@ -609,9 +609,14 @@ dialog .button {
     padding: 25px;
   }
   footer {
-    align-items: flex-start;
-    flex-direction: column;
+    align-items: center;
+    flex-direction: row;
+    justify-content: space-between;
     gap: 16px;
+  }
+  footer > .text-link {
+    margin-left: auto;
+    text-align: right;
   }
   footer p {
     margin: 0;
